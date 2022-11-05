@@ -1,1 +1,1 @@
-web: gunicorn api2.wsgi
+web: gunicorn task2.wsgi
